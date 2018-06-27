@@ -1,0 +1,21 @@
+{
+  "name": "linter-tree-sitter",
+  "version": "0.0.0",
+  "description": "Display errors in the file parse using the linter API",
+  "main": "lib/main.js",
+  "repository": "https://github.com/Aerijo/linter-tree-sitter",
+  "bugs": "https://github.com/Aerijo/linter-tree-sitter/issues",
+  "keywords": [
+    "linter",
+    "tree-sitter"
+  ],
+  "author": "Benjamin Gray",
+  "license": "MIT",
+  "consumedServices": {
+    "linter-indie": {
+      "versions": {
+        "2.0.0": "consumeIndie"
+      }
+    }
+  }
+}
