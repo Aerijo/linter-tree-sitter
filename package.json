@@ -1,6 +1,6 @@
 {
   "name": "linter-tree-sitter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Display errors in the file parse using the linter API",
   "main": "lib/main.js",
   "repository": "https://github.com/Aerijo/linter-tree-sitter",
